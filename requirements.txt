@@ -1,7 +1,2 @@
 pip install joblib
-from sklearn.feature_extraction.text import CountVectorizer
-import nltk
-from nltk.corpus import stopwords
-from nltk.stem.porter import PorterStemmer
-from sklearn.linear_model import LogisticRegression
-import joblib
+pip install sklearn
